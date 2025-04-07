@@ -14,5 +14,5 @@
   </tr>
 </table>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="865" src="https://github-profile-trophy.vercel.app/?username=langley0421&theme=algolia&column=7&no-bg=true&no-frame=true" />
+  <img width="865" src="https://github-profile-trophy.vercel.app/?username=langley0421&theme=flat&column=7&no-bg=true&no-frame=true" />
 </a>

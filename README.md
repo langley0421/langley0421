@@ -3,7 +3,7 @@
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=langley0421&count_private=true&show_icons=true&text_color=03abd4&bg_color=00000000&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=langley0421&theme=graywhite&count_private=true&show_icons=true&text_color=03abd4&bg_color=00000000&hide_border=true" />
       </a>
     </td>
     <td>

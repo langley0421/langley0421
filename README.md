@@ -7,11 +7,9 @@
       </a>
     </td>
     <td>
-      <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=langley0421&layout=compact&langs_count=10&text_color=03abd4&bg_color=00000000&hide_border=true" />
-      </a> -->
-      <a href=https://github-readme-stats.vercel.app/api/top-langs/?username=langley0421>
-      <img src="https://github.com/langley0421/github-readme-stats" />
+      </a>
     </td>
   </tr>
 </table>
